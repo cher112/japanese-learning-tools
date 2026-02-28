@@ -131,6 +131,7 @@ def make_furigana(word, reading):
 
 
 
+ANKI_URL = "http://localhost:8765"
 VOICEVOX_URL = "http://127.0.0.1:50021"
 DECK = "補充単語"
 MODEL = "みんなの日本語"
@@ -274,6 +275,7 @@ def add_word(word, reading, pos, meaning, lesson="補充", example="", example_c
                 "課": lesson,
                 "例句翻译": example_cn,
                 "例句音频": example_audio_field,
+                "笔记": "",
             },
             "options": {"allowDuplicate": False},
             "tags": [lesson, pos, "補充"],
@@ -337,11 +339,17 @@ def main():
         if profile not in profiles:
             continue
 
-        anki("loadProfile", name=profile)
-        time.sleep(3)
+        try:
+            anki("loadProfile", name=profile)
+        except Exception:
+            pass
+        time.sleep(10)
         if not wait_for_anki():
             print(f"✗ {profile} 切换失败")
             continue
+        # Sanity check: verify profile actually switched
+        nids = anki("findNotes", query='"deck:みんなの日本語初级1-2 単語"')
+        print(f"  {profile}: {len(nids)} notes (sanity check)")
 
         added = 0
         for w in word_list:
@@ -352,8 +360,12 @@ def main():
         print(f"  {profile}: +{added} 个词")
 
     # Switch back
-    anki("loadProfile", name="szmz")
-    time.sleep(2)
+    try:
+        anki("loadProfile", name="szmz")
+    except Exception:
+        pass
+    time.sleep(10)
+    wait_for_anki()
 
     print(f"\n✅ {len(word_list)} 个词已补充到两个 Profile")
     print("  标记: 補充 | 优先出现在新卡片队列")

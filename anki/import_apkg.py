@@ -183,6 +183,7 @@ ruby rt { font-size: 0.55em; font-weight: 700; color: #5b9bf6; }
 .nightMode .reading, .nightMode .pitch, .nightMode ruby rt { color: #5b9bf6 !important; }
 .nightMode .meaning-block { background: #fafafa !important; border-color: #eee !important; }
 .nightMode .example-block { background: #f0faf0 !important; border-color: #d5f0d5 !important; }
+.nightMode .notes-block { background: #fef9ee !important; border-color: #f0e0c0 !important; }
 .nightMode .pos-tag { background: #58cc02 !important; color: #fff !important; }
 
 /* === 音频：多邻国风格播放按钮 === */
@@ -216,6 +217,20 @@ ruby rt { font-size: 0.55em; font-weight: 700; color: #5b9bf6; }
   border-radius: 50%;
 }
 .ex-play-btn:active { transform: scale(1.3); background: rgba(91,155,246,0.1); }
+
+/* === 笔记区 === */
+.notes-block {
+  text-align: left; margin: 10px 0 0; padding: 14px 18px;
+  background: #fef9ee; border-radius: 16px;
+  border: 1.5px solid #f0e0c0;
+}
+.notes-title {
+  font-size: 11px; font-weight: 800; text-transform: uppercase;
+  letter-spacing: 1px; color: #e8a735; margin-bottom: 4px;
+}
+.notes-text {
+  font-size: 14px; color: #4b4b4b; font-weight: 600; line-height: 1.8;
+}
 
 /* === 已记住按钮（仅桌面） === */
 .master-wrap { margin: 16px 0 0; text-align: center; display: none; }
@@ -286,6 +301,13 @@ BACK_JP = """
     {{#例句翻译}}<div class="example-cn">{{例句翻译}}</div>{{/例句翻译}}
   </div>
   {{/例句}}
+
+  {{#笔记}}
+  <div class="notes-block">
+    <div class="notes-title">笔记</div>
+    <div class="notes-text">{{笔记}}</div>
+  </div>
+  {{/笔记}}
 
   <div class="master-wrap">
     <button class="master-btn" onclick="markMastered(this)">已记住</button>
@@ -363,6 +385,13 @@ BACK_CN = """
     {{#例句翻译}}<div class="example-cn">{{例句翻译}}</div>{{/例句翻译}}
   </div>
   {{/例句}}
+
+  {{#笔记}}
+  <div class="notes-block">
+    <div class="notes-title">笔记</div>
+    <div class="notes-text">{{笔记}}</div>
+  </div>
+  {{/笔记}}
 
   <div class="master-wrap">
     <button class="master-btn" onclick="markMastered(this)">已记住</button>
@@ -506,7 +535,8 @@ def main():
                  inOrderFields=["日文", "音调核", "词性", "基本形", "外来语",
                                 "中文", "音频", "是否需要从汉字到假名",
                                 "是否需要缩小日文", "是否需要缩小假名",
-                                "是否需要缩小中文", "例句", "課", "例句音频"],
+                                "是否需要缩小中文", "例句", "課", "例句音频",
+                                "笔记"],
                  css=CSS,
                  cardTemplates=[
                      {"Name": "日文", "Front": FRONT_JP, "Back": BACK_JP},
@@ -585,6 +615,7 @@ def main():
                     "例句": "",
                     "課": note["_lesson"],
                     "例句音频": "",
+                    "笔记": "",
                 },
                 "options": {"allowDuplicate": False},
                 "tags": [lesson, note["词性"]] if lesson else [note["词性"]],

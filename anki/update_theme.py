@@ -58,7 +58,7 @@ def main():
 
         # Ensure new fields exist
         fields = anki("modelFieldNames", modelName=MODEL)
-        for fname in ["例句音频", "例句翻译"]:
+        for fname in ["例句音频", "例句翻译", "笔记"]:
             if fname not in fields:
                 anki("modelFieldAdd", modelName=MODEL, fieldName=fname, index=len(fields))
                 fields.append(fname)

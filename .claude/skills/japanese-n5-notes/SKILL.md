@@ -10,6 +10,7 @@ description: |
   6. 学习结束时生成学习日志到logs/目录
   7. 生成背诵手册到背诵/目录
   8. 维护课后语法速查.md（按课组织的语法速查，方便做课后题）
+  9. 维护课后单词笔记.md（按课组织的单词笔记，与Anki笔记字段同步）
 
   触发词：
   - "更新笔记"、"补充语法"、"新课件" → 从PDF提取并更新（同时更新课后语法速查.md）
@@ -19,6 +20,7 @@ description: |
   - "总结今日学习"、"学习总结"、"今日log" → 生成学习日志
   - "总结背诵"、"背诵点"、"背诵手册" → 生成背诵手册
   - "更新速查"、"课后速查"、"语法速查" → 更新课后语法速查.md
+  - "单词笔记"、"单词速查" → 更新课后单词笔记.md
 version: 1.4.0
 allowed-tools: Read, Write, Edit, Bash(python *), Bash(python3 *), Bash(source .venv/bin/activate *), Bash(mkdir *), Bash(ls *)
 ---
@@ -120,6 +122,30 @@ allowed-tools: Read, Write, Edit, Bash(python *), Bash(python3 *), Bash(source .
    ```
 
    **语法类内容** → 分配到 **日语笔记.md**：
+
+   **单词笔记类内容** → 写入 **Anki 笔记字段**：
+   - 针对某个已有单词的补充说明（如：「家賃を払います。固定搭配」→ 写入家賃卡片的笔记字段）
+   - 敬语用法说明（如：「お探しですか＝探していますか的敬语」→ 写入探します卡片）
+   - 用户用 `@单词` 或在某词旁标注的笔记内容
+   - 课号标注（如「第22课」）应记录到笔记中，提供上下文
+
+   **Anki 笔记字段更新方法**：
+   ```python
+   # 1. 查找目标单词
+   nids = anki("findNotes", query="日文:*目标汉字*")
+   # 2. 更新笔记字段（两个 Profile 都要更新）
+   for profile in ["szmz", "czh"]:
+       switch_profile(profile)
+       nids = anki("findNotes", query="日文:*目标汉字*")
+       anki("updateNoteFields", note={"id": nids[0], "fields": {"笔记": "笔记内容"}})
+   ```
+
+   **同时写入课后单词笔记.md**：笔记内容必须同步写入 `课后单词笔记.md` 对应课号下，格式：
+   ```markdown
+   ## 初级1 第XX課
+
+   - **单词（读音）**：笔记内容
+   ```
    - 句型公式（如：～ことができます）
    - 语法规则说明（如：あまり＋否定）
    - 助词用法（如：に vs で的区别）
@@ -155,6 +181,8 @@ allowed-tools: Read, Write, Edit, Bash(python *), Bash(python3 *), Bash(source .
    | にぎやか（单独词汇） | 单词 | Anki add.py → 形動 | |
    | 安い（单独词汇） | 单词 | Anki add.py → 形 | |
    | おいくら＝いくら的敬语 | 单词 | Anki add.py → 名 | |
+   | 家賃を払います。固定搭配 | 笔记 | Anki 笔记字段 → 家賃 | 更新两个Profile |
+   | お探しですか＝敬语形式 | 笔记 | Anki 笔记字段 → 探します | 标注课号 |
    | 会いました vs 会いましょう | 语法 | 日语笔记.md | モジュール4 |
    | 23800円、9時15分等读法练习 | 语法 | 日语笔记.md | 附録A |
    | あまり＋否定（语法搭配规则） | 语法 | 日语笔记.md | モジュール6 |
@@ -170,6 +198,8 @@ allowed-tools: Read, Write, Edit, Bash(python *), Bash(python3 *), Bash(source .
    - 涉及**单个词的意思/读音**（如：にぎやか＝热闹）→ 单词
    - 涉及**两个词的意思对比**（如：会いました vs 会いましょう）→ 单词
    - 涉及**数字/价格/时间的读法练习**→ 单词
+   - 涉及**某个已有单词的补充说明**（如：固定搭配、敬语形式、使用场景）→ **笔记**（写入该单词的 Anki 笔记字段）
+   - 用户标注了课号（如「第22课」）且是针对某单词的备注 → **笔记**
 
 4. **格式转换**
 
@@ -611,6 +641,7 @@ allowed-tools: Read, Write, Edit, Bash(python *), Bash(python3 *), Bash(source .
 ├── 中级1/          ← 未来
 ├── 日语笔记.md
 ├── 课后语法速查.md
+├── 课后单词笔记.md    ← 按课组织的单词笔记（与Anki笔记字段同步）
 ├── anki/             ← Anki管理工具
 │   ├── add.py        ← 补充单词（→ 補充単語牌组，双Profile同步）
 │   ├── import_apkg.py
