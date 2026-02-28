@@ -16,7 +16,7 @@
 
 **Anki 记忆卡** — 通过 AnkiConnect 自动导入和管理，Duolingo 风格卡片。单词卡 2387 词（1-50 课），含注音、音调、词性、例句和语音；文法卡 139 个语法点（1-25 课），包括语法认识卡和多邻国风选择题。两个 Profile（szmz / czh）共享词库、复习进度独立。补充新词、生成语音、调整复习策略等操作都可以通过 agent 完成，详见 [anki/README.md](anki/README.md)。
 
-卡片音频分两部分：单词发音使用教材原生录音（2263 个 MP3），例句发音通过 [VOICEVOX](https://voicevox.hiroshiba.jp/) 本地合成——例句使用 WhiteCUL「楽しい」音色（温柔女声，适合听力练习），补充单词使用琴詠ニア（清晰发音），补充例句使用剣崎雌雄（男声）。
+卡片音频分两部分：单词发音使用教材原生录音（2263 个 MP3），例句发音通过 [VOICEVOX](https://voicevox.hiroshiba.jp/) 本地合成，使用 WhiteCUL「楽しい」音色（温柔女声，适合听力练习）。
 
 <img src="anki.png" width="360">
 
