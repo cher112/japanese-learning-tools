@@ -1,0 +1,2087 @@
+[
+  {
+    "id": "L1-1",
+    "lesson": "第1課",
+    "title": "名詞1は 名詞2です",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "わたしは マイク・ミラーです。"
+  },
+  {
+    "id": "L1-2",
+    "lesson": "第1課",
+    "title": "名詞1は 名詞2じゃ（では）ありません",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "サントスさんは 学生じゃ ありません。"
+  },
+  {
+    "id": "L1-3",
+    "lesson": "第1課",
+    "title": "名詞1は 名詞2ですか（疑問句）",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "ミラーさんは アメリカ人ですか。"
+  },
+  {
+    "id": "L1-4",
+    "lesson": "第1課",
+    "title": "名詞も",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "ミラーさんは 会社員です。グプタさんも 会社員です。"
+  },
+  {
+    "id": "L1-5",
+    "lesson": "第1課",
+    "title": "名詞1の 名詞2",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "ミラーさんは IMCの 社員です。"
+  },
+  {
+    "id": "L1-6",
+    "lesson": "第1課",
+    "title": "～さん",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "あの方は ミラーさんです。"
+  },
+  {
+    "id": "L2-1",
+    "lesson": "第2課",
+    "title": "これ/それ/あれ",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "それは 辞書ですか。"
+  },
+  {
+    "id": "L2-2",
+    "lesson": "第2課",
+    "title": "この 名詞/その 名詞/あの 名詞",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "この 本は わたしのです。"
+  },
+  {
+    "id": "L2-3",
+    "lesson": "第2課",
+    "title": "そうです/そうじゃ ありません",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "それは 辞書ですか。"
+  },
+  {
+    "id": "L2-4",
+    "lesson": "第2課",
+    "title": "～か、～か",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "これは 「9」ですか、「7」ですか。"
+  },
+  {
+    "id": "L2-5",
+    "lesson": "第2課",
+    "title": "名詞1の 名詞2",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "これは コンピューターの 本です。"
+  },
+  {
+    "id": "L2-6",
+    "lesson": "第2課",
+    "title": "代替名詞使用的「の」",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "あれは だれの かばんですか。"
+  },
+  {
+    "id": "L2-7",
+    "lesson": "第2課",
+    "title": "お～",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": ""
+  },
+  {
+    "id": "L2-8",
+    "lesson": "第2課",
+    "title": "そうですか",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "この 傘は あなたのですか。"
+  },
+  {
+    "id": "L3-1",
+    "lesson": "第3課",
+    "title": "ここ/そこ/あそこ/こちら/そちら/あちら",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": ""
+  },
+  {
+    "id": "L3-2",
+    "lesson": "第3課",
+    "title": "名詞は 場所です",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "お手洗いは あそこです。"
+  },
+  {
+    "id": "L3-3",
+    "lesson": "第3課",
+    "title": "どこ/どちら",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "お手洗いは どこですか。"
+  },
+  {
+    "id": "L3-4",
+    "lesson": "第3課",
+    "title": "名詞1の 名詞2",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "これは どこの コンピューターですか。"
+  },
+  {
+    "id": "L3-5",
+    "lesson": "第3課",
+    "title": "お国は どちらですか",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "[お]国は どちらですか。"
+  },
+  {
+    "id": "L3-6",
+    "lesson": "第3課",
+    "title": "～も ～です/～も ～じゃ ありません",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "トイレは 1階です。電話も 1階です。"
+  },
+  {
+    "id": "L3-7",
+    "lesson": "第3課",
+    "title": "～は いくらですか",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "この かばんは いくらですか。"
+  },
+  {
+    "id": "L4-1",
+    "lesson": "第4課",
+    "title": "今 ～時 ～分です",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "今 何時ですか。"
+  },
+  {
+    "id": "L4-2",
+    "lesson": "第4課",
+    "title": "動詞ます/動詞ません/動詞ました/動詞ませんでした",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "毎朝 6時に 起きます。"
+  },
+  {
+    "id": "L4-3",
+    "lesson": "第4課",
+    "title": "名詞（時間）に 動詞",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "6時半に 起きます。"
+  },
+  {
+    "id": "L4-4",
+    "lesson": "第4課",
+    "title": "～から ～まで",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "9時から 5時まで 勉強します。"
+  },
+  {
+    "id": "L4-5",
+    "lesson": "第4課",
+    "title": "名詞1と 名詞2",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "銀行の 休みは 土曜日と 日曜日です。"
+  },
+  {
+    "id": "L4-6",
+    "lesson": "第4課",
+    "title": "～ね",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "毎日 10時まで 勉強ですか。大変ですね。"
+  },
+  {
+    "id": "L5-1",
+    "lesson": "第5課",
+    "title": "名詞（場所）へ 行きます/来ます/帰ります",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "京都へ 行きます。"
+  },
+  {
+    "id": "L5-2",
+    "lesson": "第5課",
+    "title": "どこ[へ]も 行きません/行きませんでした",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "どこ[へ]も 行きません。"
+  },
+  {
+    "id": "L5-3",
+    "lesson": "第5課",
+    "title": "名詞（交通工具）で 行きます/来ます/帰ります",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "電車で 行きます。"
+  },
+  {
+    "id": "L5-4",
+    "lesson": "第5課",
+    "title": "名詞（人/動物）と 動詞",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "家族と 日本へ 来ました。"
+  },
+  {
+    "id": "L5-5",
+    "lesson": "第5課",
+    "title": "いつ",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "いつ 日本へ 来ましたか。"
+  },
+  {
+    "id": "L5-6",
+    "lesson": "第5課",
+    "title": "～よ",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "この 電車は 甲子園へ 行きますか。"
+  },
+  {
+    "id": "L5-7",
+    "lesson": "第5課",
+    "title": "そうですね",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "あしたは 日曜日ですね。"
+  },
+  {
+    "id": "L6-1",
+    "lesson": "第6課",
+    "title": "名詞を 動詞（他動詞）",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "ジュースを 飲みます。"
+  },
+  {
+    "id": "L6-2",
+    "lesson": "第6課",
+    "title": "名詞を します",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": ""
+  },
+  {
+    "id": "L6-3",
+    "lesson": "第6課",
+    "title": "何を しますか",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "月曜日 何を しますか。"
+  },
+  {
+    "id": "L6-4",
+    "lesson": "第6課",
+    "title": "なん と なに",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "それは 何ですか。"
+  },
+  {
+    "id": "L6-5",
+    "lesson": "第6課",
+    "title": "名詞（場所）で 動詞",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "駅で 新聞を 買います。"
+  },
+  {
+    "id": "L6-6",
+    "lesson": "第6課",
+    "title": "動詞ませんか",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "いっしょに 京都へ 行きませんか。"
+  },
+  {
+    "id": "L6-7",
+    "lesson": "第6課",
+    "title": "動詞ましょう",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "ちょっと 休みましょう。"
+  },
+  {
+    "id": "L6-8",
+    "lesson": "第6課",
+    "title": "～か",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "日曜日 京都へ 行きました。"
+  },
+  {
+    "id": "L7-1",
+    "lesson": "第7課",
+    "title": "名詞（道具/手段）で 動詞",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "はしで ごはんを 食べます。"
+  },
+  {
+    "id": "L7-2",
+    "lesson": "第7課",
+    "title": "「言葉」は ～語で 何ですか",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "「ありがとう」は 英語で 何ですか。"
+  },
+  {
+    "id": "L7-3",
+    "lesson": "第7課",
+    "title": "名詞1（人）に 名詞2を あげます",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "[わたしは] 木村さんに 花を あげました。"
+  },
+  {
+    "id": "L7-4",
+    "lesson": "第7課",
+    "title": "名詞1（人）に/から 名詞2を もらいます",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "[わたしは] 山田さんに 花を もらいました。"
+  },
+  {
+    "id": "L7-5",
+    "lesson": "第7課",
+    "title": "もう 動詞ました",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "もう 荷物を 送りましたか。"
+  },
+  {
+    "id": "L7-6",
+    "lesson": "第7課",
+    "title": "助詞的省略",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "この スプーン[は]、すてきですね。"
+  },
+  {
+    "id": "L8-1",
+    "lesson": "第8課",
+    "title": "形容詞",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": ""
+  },
+  {
+    "id": "L8-2",
+    "lesson": "第8課",
+    "title": "名詞は な形容詞[な]です / 名詞は い形容詞（～い）です",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "ワット先生は 親切です。"
+  },
+  {
+    "id": "L8-3",
+    "lesson": "第8課",
+    "title": "形容詞の否定形",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "あそこは 静かじゃ"
+  },
+  {
+    "id": "L8-4",
+    "lesson": "第8課",
+    "title": "な形容詞[な] 名詞 / い形容詞（～い） 名詞",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "ワット先生は 親切な 先生です。"
+  },
+  {
+    "id": "L8-5",
+    "lesson": "第8課",
+    "title": "～が、～",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "日本の 食べ物は おいしいですが、高いです。"
+  },
+  {
+    "id": "L8-6",
+    "lesson": "第8課",
+    "title": "とても/あまり",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "ペキンは とても 寒いです。"
+  },
+  {
+    "id": "L8-7",
+    "lesson": "第8課",
+    "title": "名詞は どうですか",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "日本の 生活は どうですか。"
+  },
+  {
+    "id": "L8-8",
+    "lesson": "第8課",
+    "title": "名詞1は どんな 名詞2ですか",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "奈良は どんな 町ですか。"
+  },
+  {
+    "id": "L8-9",
+    "lesson": "第8課",
+    "title": "そうですね",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "お仕事は どうですか。"
+  },
+  {
+    "id": "L9-1",
+    "lesson": "第9課",
+    "title": "名詞が あります／わかります。名詞が 好きです／嫌いです／上手です／下手です",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "わたしは イタリア料理が 好きです。"
+  },
+  {
+    "id": "L9-2",
+    "lesson": "第9課",
+    "title": "どんな 名詞",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "どんな スポーツが 好きですか。"
+  },
+  {
+    "id": "L9-3",
+    "lesson": "第9課",
+    "title": "よく／だいたい／たくさん／少し／あまり／全然",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "英語が よく わかります。"
+  },
+  {
+    "id": "L9-4",
+    "lesson": "第9課",
+    "title": "～から、～",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "時間が ありませんから、新聞を 読みません。"
+  },
+  {
+    "id": "L9-5",
+    "lesson": "第9課",
+    "title": "どうして",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "どうして 朝 新聞を 読みませんか。"
+  },
+  {
+    "id": "L10-1",
+    "lesson": "第10課",
+    "title": "名詞が あります／います",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "コンピューターが あります。"
+  },
+  {
+    "id": "L10-2",
+    "lesson": "第10課",
+    "title": "場所に 名詞が あります／います",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "わたしの 部屋に 机が あります。"
+  },
+  {
+    "id": "L10-3",
+    "lesson": "第10課",
+    "title": "名詞は 場所に あります／います",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "東京ディズニーランドは 千葉県に あります。"
+  },
+  {
+    "id": "L10-4",
+    "lesson": "第10課",
+    "title": "名詞1（物／人／場所）の 名詞2（位置）",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "机の 上に 写真が あります。"
+  },
+  {
+    "id": "L10-5",
+    "lesson": "第10課",
+    "title": "名詞1や 名詞2[など]",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "箱の 中に 手紙や 写真が あります。"
+  },
+  {
+    "id": "L11-1",
+    "lesson": "第11課",
+    "title": "数量的说法",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": ""
+  },
+  {
+    "id": "L11-2",
+    "lesson": "第11課",
+    "title": "数量詞の用法",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "りんごを 4つ 買いました。"
+  },
+  {
+    "id": "L11-3",
+    "lesson": "第11課",
+    "title": "数量詞（期間）に ～回 動詞",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "1か月に 2回 映画を 見ます。"
+  },
+  {
+    "id": "L11-4",
+    "lesson": "第11課",
+    "title": "数量詞だけ／名詞だけ",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "パワー電気に 外国人の 社員が 1人だけ います。"
+  },
+  {
+    "id": "L12-1",
+    "lesson": "第12課",
+    "title": "名詞句・な形容詞句の過去形",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "きのうは 雨でした。"
+  },
+  {
+    "id": "L12-2",
+    "lesson": "第12課",
+    "title": "い形容詞句の過去形",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "きのうは 暑かったです。"
+  },
+  {
+    "id": "L12-3",
+    "lesson": "第12課",
+    "title": "名詞1は 名詞2より 形容詞です",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "この 車は あの 車より 大きいです。"
+  },
+  {
+    "id": "L12-4",
+    "lesson": "第12課",
+    "title": "名詞1と 名詞2と どちらが 形容詞ですか……名詞1／名詞2の ほうが 形容詞です",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "サッカーと 野球と どちらが おもしろいですか。"
+  },
+  {
+    "id": "L12-5",
+    "lesson": "第12課",
+    "title": "名詞1[の中]で 何／どこ／だれが いちばん 形容詞ですか",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "日本料理[の中]で 何が いちばん おいしいですか。"
+  },
+  {
+    "id": "L12-6",
+    "lesson": "第12課",
+    "title": "形容詞の（代替名詞使用的「の」）",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "カリナさんの かばんは どれですか。"
+  },
+  {
+    "id": "L13-1",
+    "lesson": "第13課",
+    "title": "名詞が 欲しいです",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "友達が 欲しいです。"
+  },
+  {
+    "id": "L13-2",
+    "lesson": "第13課",
+    "title": "動詞ます形 たいです",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "沖縄へ 行きたいです。"
+  },
+  {
+    "id": "L13-3",
+    "lesson": "第13課",
+    "title": "動詞ます形に 行きます／来ます／帰ります",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "神戸へ インド料理を 食べに 行きます。"
+  },
+  {
+    "id": "L13-4",
+    "lesson": "第13課",
+    "title": "どこかへ／何か",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "冬休みは どこか[へ] 行きましたか。"
+  },
+  {
+    "id": "L13-5",
+    "lesson": "第13課",
+    "title": "ご～",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "ご注文は？"
+  },
+  {
+    "id": "L14-1",
+    "lesson": "第14課",
+    "title": "動詞のグループ",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": ""
+  },
+  {
+    "id": "L14-2",
+    "lesson": "第14課",
+    "title": "動詞て形",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": ""
+  },
+  {
+    "id": "L14-3",
+    "lesson": "第14課",
+    "title": "動詞て形 ください",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "すみませんが、この 漢字の 読み方を 教えて ください。"
+  },
+  {
+    "id": "L14-4",
+    "lesson": "第14課",
+    "title": "動詞て形 います",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "ミラーさんは 今 電話を かけて います。"
+  },
+  {
+    "id": "L14-5",
+    "lesson": "第14課",
+    "title": "動詞ます形 ましょうか",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "傘を 貸しましょうか。"
+  },
+  {
+    "id": "L14-6",
+    "lesson": "第14課",
+    "title": "名詞が 動詞",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "雨が 降って います。"
+  },
+  {
+    "id": "L14-7",
+    "lesson": "第14課",
+    "title": "すみませんが",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "すみませんが、塩を 取って ください。"
+  },
+  {
+    "id": "L15-1",
+    "lesson": "第15課",
+    "title": "動詞て形も いいですか",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "写真を 撮っても いいですか。"
+  },
+  {
+    "id": "L15-2",
+    "lesson": "第15課",
+    "title": "動詞て形は いけません",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "ここで たばこを 吸っては いけません。禁煙ですから。"
+  },
+  {
+    "id": "L15-3",
+    "lesson": "第15課",
+    "title": "動詞て形 います（表示状态）",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "わたしは 結婚して います。"
+  },
+  {
+    "id": "L15-4",
+    "lesson": "第15課",
+    "title": "名詞に 動詞",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "ここに 座っても いいですか。"
+  },
+  {
+    "id": "L16-1",
+    "lesson": "第16課",
+    "title": "連接两个以上句子的方法",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "朝 ジョギングを して、シャワーを 浴びて、会社へ 行きます。"
+  },
+  {
+    "id": "L16-2",
+    "lesson": "第16課",
+    "title": "動詞て形から、～",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "お金を 入れてから、ボタンを 押して ください。"
+  },
+  {
+    "id": "L16-3",
+    "lesson": "第16課",
+    "title": "名詞1は 名詞2が 形容詞です",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "大阪は 食べ物が おいしいです。"
+  },
+  {
+    "id": "L16-4",
+    "lesson": "第16課",
+    "title": "名詞を 動詞（離点）",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "7時に うちを 出ます。"
+  },
+  {
+    "id": "L16-5",
+    "lesson": "第16課",
+    "title": "どうやって",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "大学へ どうやって 行きますか。"
+  },
+  {
+    "id": "L16-6",
+    "lesson": "第16課",
+    "title": "どの 名詞／どれ",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "ミラーさんの 傘は どれですか。"
+  },
+  {
+    "id": "L17-1",
+    "lesson": "第17課",
+    "title": "動詞ない形",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": ""
+  },
+  {
+    "id": "L17-2",
+    "lesson": "第17課",
+    "title": "動詞ない形ないで ください",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "ここで 写真を 撮らないで ください。"
+  },
+  {
+    "id": "L17-3",
+    "lesson": "第17課",
+    "title": "動詞ない形なければ なりません",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "薬を 飲まなければ なりません。"
+  },
+  {
+    "id": "L17-4",
+    "lesson": "第17課",
+    "title": "動詞ない形なくても いいです",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "明日 来なくても いいです。"
+  },
+  {
+    "id": "L17-5",
+    "lesson": "第17課",
+    "title": "名詞（宾语）は",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "荷物は ここに 置かないで ください。"
+  },
+  {
+    "id": "L17-6",
+    "lesson": "第17課",
+    "title": "名詞（時間）までに 動詞",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "会議は 5時までに 終わります。"
+  },
+  {
+    "id": "L18-1",
+    "lesson": "第18課",
+    "title": "動詞辞書形",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": ""
+  },
+  {
+    "id": "L18-2",
+    "lesson": "第18課",
+    "title": "名詞は 動詞辞書形 ことが できます",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "ミラーさんは 日本語が できます。"
+  },
+  {
+    "id": "L18-3",
+    "lesson": "第18課",
+    "title": "わたしの 趣味は 動詞辞書形 ことです",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "わたしの 趣味は 音楽です。"
+  },
+  {
+    "id": "L18-4",
+    "lesson": "第18課",
+    "title": "動詞辞書形 / 名詞の / 数量詞（期間）前に、～",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "日本へ 来る 前に、日本語を 勉強しました。"
+  },
+  {
+    "id": "L18-5",
+    "lesson": "第18課",
+    "title": "なかなか ～ません",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "日本では なかなか 馬を 見る ことが できません。"
+  },
+  {
+    "id": "L18-6",
+    "lesson": "第18課",
+    "title": "ぜひ",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "ぜひ 北海道へ 行きたいです。"
+  },
+  {
+    "id": "L19-1",
+    "lesson": "第19課",
+    "title": "動詞た形",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": ""
+  },
+  {
+    "id": "L19-2",
+    "lesson": "第19課",
+    "title": "動詞た形 ことが あります",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "馬に 乗った ことが あります。"
+  },
+  {
+    "id": "L19-3",
+    "lesson": "第19課",
+    "title": "動詞た形り、動詞た形り します",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "日曜日は テニスを したり、映画を 見たり します。"
+  },
+  {
+    "id": "L19-4",
+    "lesson": "第19課",
+    "title": "い形容詞（～い）→～く / な形容詞[な]→～に / 名詞に なります",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "寒い → 寒く なります"
+  },
+  {
+    "id": "L20-1",
+    "lesson": "第20課",
+    "title": "敬体と普通体",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": ""
+  },
+  {
+    "id": "L20-2",
+    "lesson": "第20課",
+    "title": "普通形の作り方",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": ""
+  },
+  {
+    "id": "L20-3",
+    "lesson": "第20課",
+    "title": "普通体での会話",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "コーヒー、飲む？"
+  },
+  {
+    "id": "L20-4",
+    "lesson": "第20課",
+    "title": "终助词",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "あのカレー、辛い？"
+  },
+  {
+    "id": "L21-1",
+    "lesson": "第21課",
+    "title": "普通形と 思います",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "あした 雨が 降ると 思います。"
+  },
+  {
+    "id": "L21-2",
+    "lesson": "第21課",
+    "title": "普通形と 言いました",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "寝る 前に、「おやすみなさい」と 言います。"
+  },
+  {
+    "id": "L21-3",
+    "lesson": "第21課",
+    "title": "動詞/い形容詞/な形容詞/名詞 普通形 + でしょう？",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "あしたは パーティーに 行くでしょう？"
+  },
+  {
+    "id": "L21-4",
+    "lesson": "第21課",
+    "title": "名詞1（場所）で 名詞2が あります",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "東京で 日本と ブラジルの サッカーの 試合が あります。"
+  },
+  {
+    "id": "L21-5",
+    "lesson": "第21課",
+    "title": "名詞（場面）でも",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "ちょっと ビールでも 飲みませんか。"
+  },
+  {
+    "id": "L21-6",
+    "lesson": "第21課",
+    "title": "動詞ない形ないと……",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "もう 帰らないと……"
+  },
+  {
+    "id": "L22-1",
+    "lesson": "第22課",
+    "title": "名詞修飾（連体修飾節）",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "これは ミラーさんが 住んでいた うちです。"
+  },
+  {
+    "id": "L22-2",
+    "lesson": "第22課",
+    "title": "動詞辞書形 時間/約束/用事が あります",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "わたしは 朝ごはんを 食べる 時間が ありません。"
+  },
+  {
+    "id": "L23-1",
+    "lesson": "第23課",
+    "title": "動詞辞書形/ない形/い形容詞/な形容詞な/名詞の + とき、～",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "図書館で 本を 借りる とき、カードが 要ります。"
+  },
+  {
+    "id": "L23-2",
+    "lesson": "第23課",
+    "title": "動詞辞書形と、～",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "この ボタンを 押すと、お釣りが 出ます。"
+  },
+  {
+    "id": "L23-3",
+    "lesson": "第23課",
+    "title": "名詞は 名詞が 形容詞です",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "音が 小さいです。"
+  },
+  {
+    "id": "L23-4",
+    "lesson": "第23課",
+    "title": "名詞を 移動動詞",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "公園を 散歩します。"
+  },
+  {
+    "id": "L24-1",
+    "lesson": "第24課",
+    "title": "くれます",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "わたしは 佐藤さんに 花を あげました。"
+  },
+  {
+    "id": "L24-2",
+    "lesson": "第24課",
+    "title": "動詞て形 あげます/もらいます/くれます",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "わたしは 木村さんに 本を 貸して あげました。"
+  },
+  {
+    "id": "L24-3",
+    "lesson": "第24課",
+    "title": "名詞1は 名詞2が 動詞",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "おいしい ワインですね。"
+  },
+  {
+    "id": "L25-1",
+    "lesson": "第25課",
+    "title": "普通形過去（た形）ら、～",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "お金が あったら、旅行します。"
+  },
+  {
+    "id": "L25-2",
+    "lesson": "第25課",
+    "title": "動詞た形ら、～た",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "10時に なったら、出かけましょう。"
+  },
+  {
+    "id": "L25-3",
+    "lesson": "第25課",
+    "title": "動詞て形/い形容詞→～くて/な形容詞→～で/名詞+で + も",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "雨が 降っても、洗濯します。"
+  },
+  {
+    "id": "L25-4",
+    "lesson": "第25課",
+    "title": "もし",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "もし 1億円 あったら、いろいろな 国を 旅行したいです。"
+  },
+  {
+    "id": "L25-5",
+    "lesson": "第25課",
+    "title": "従属節の主語は「が」",
+    "question": "",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "hint": "",
+    "_ref_example": "友達が 来る 前に、部屋を 掃除します。"
+  }
+]

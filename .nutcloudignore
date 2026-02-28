@@ -1,0 +1,5 @@
+anki/
+.claude/
+__pycache__/
+*.pyc
+pdf_env/

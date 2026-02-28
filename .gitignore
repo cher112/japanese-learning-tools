@@ -1,0 +1,25 @@
+# Virtual environment
+.venv/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Anki package (too large for git)
+anki/blank.apkg
+
+# Easydict installer
+Easydict.dmg
+
+# PDF files (copyrighted textbooks)
+*.pdf
+*.pptx
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# Logs
+logs/
