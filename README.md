@@ -18,11 +18,13 @@
 
 卡片音频分两部分：单词发音使用教材原生录音（2263 个 MP3），补充单词通过 [VOICEVOX](https://voicevox.hiroshiba.jp/) 琴詠ニア音色合成；例句发音统一使用 VOICEVOX WhiteCUL「楽しい」音色（温柔女声，适合听力练习）。
 
+<p align="center">
 <img src="anki.png" width="360">
+</p>
 
 **Easydict 日中辞书** — macOS 上的智能查词翻译工具，开箱即用。输入单词返回词典级解析（词头、词性、多义项释义、例句、动词活用形），输入句子获得翻译 + 语法解析 + 关键词提取三合一结果。支持划词翻译和 OCR 截图翻译（漫画、网页、游戏等）。京都风明朝体排版，仿传统辞书质感。基于开源项目 [Easydict](https://github.com/tisfeng/Easydict) 定制。
 
-<p>
+<p align="center">
 <img src="easydict.png" width="300">
 <img src="easydict-句子.png" width="300">
 </p>
