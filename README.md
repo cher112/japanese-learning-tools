@@ -22,7 +22,7 @@
 <img src="anki.png" width="360">
 </p>
 
-**Easydict 日中辞书** — macOS 上的智能查词翻译工具，开箱即用。输入单词返回词典级解析（词头、词性、多义项释义、例句、动词活用形），输入句子获得翻译 + 语法解析 + 关键词提取三合一结果。支持划词翻译和 OCR 截图翻译（漫画、网页、游戏等）。京都风明朝体排版，仿传统辞书质感。基于开源项目 [Easydict](https://github.com/tisfeng/Easydict) 定制。
+**Easydict 日中辞书** — 基于开源项目 [Easydict](https://github.com/tisfeng/Easydict) 定制的 macOS 智能查词翻译工具。相比原版，针对日语学习做了大量优化：查词结果采用漢字【ひらがな】标准辞书词头格式，自动展示动词活用形（て形、た形、ます形等），标注词性和 JLPT 等级；输入句子自动拆解语法结构，逐段标注语法角色并附关键词注音；输入纯假名时自动展开所有可能的汉字写法。支持划词翻译和 OCR 截图翻译。京都风明朝体排版，提供四套主题（modern-clean / mac-dictionary / oled-dark / e-ink）。默认使用 DeepSeek 模型，可在 [Releases](https://github.com/cher112/japanese-learning-tools/releases) 下载。
 
 <p align="center">
 <img src="easydict.png" width="300" align="top">
